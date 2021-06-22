@@ -10,7 +10,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/alii/nextkit.git"
+		"url": "git+https://github.com/alii/node-template.git"
 	},
 	"author": "Alistair Smith <alistairsmith01@gmail.com> (https://alistair.sh)",
 	"license": "MIT",

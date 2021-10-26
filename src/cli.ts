@@ -26,4 +26,10 @@ void create("create-node-template", {
 			prompt: "if-empty",
 		},
 	},
+
+	after: async opts => {
+		await opts.run("yarn", {
+			cwd: opts.packageDir,
+		});
+	},
 });

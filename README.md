@@ -1,4 +1,4 @@
-# `create-nsnt`
+# `create-tsnt`
 
 🚀An ESM node package template with ESLint, Prettier & TypeScript built in. Powered by esbuild.
 
@@ -13,3 +13,7 @@ npx create-tsnt <name>
 # Yarn
 yarn create tsnt <name>
 ```
+
+## What does the name mean?
+
+tsnt is an acryonym for `TypeScript Node Template` OR `TypeScript NPM Template`.

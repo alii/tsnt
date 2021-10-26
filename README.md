@@ -7,5 +7,9 @@
 ## Use
 
 ```bash
+# npm
 npx create-tsnt <name>
+
+# Yarn
+yarn create tsnt <name>
 ```

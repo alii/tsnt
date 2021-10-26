@@ -1,15 +1,11 @@
 {
+	"exclude": ["dist"],
 	"compilerOptions": {
-		"module": "ESNext",
-		"target": "es6",
-		"sourceMap": true,
-		"esModuleInterop": true,
-		"rootDir": "src",
-		"outDir": "dist",
+		"target": "es2018",
+		"module": "commonjs",
 		"declaration": true,
-		"declarationMap": true,
-		"moduleResolution": "node",
-		"strict": true
-	},
-	"exclude": ["node_modules", "dist"]
+		"outDir": "./dist",
+		"strict": true,
+		"esModuleInterop": true
+	}
 }

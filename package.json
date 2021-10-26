@@ -1,7 +1,7 @@
 {
 	"name": "create-tsnt",
 	"description": "🚀An ESM node package template with ESLint, Prettier & TypeScript built in. Powered by esbuild.",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"author": "Alistair Smith <hi@alistair.sh>",
 	"scripts": {
 		"build": "tsup src/cli.ts --minify",

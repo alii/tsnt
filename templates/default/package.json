@@ -3,8 +3,8 @@
 	"description": "{{description}}",
 	"version": "1.0.0",
 	"types": "./dist/index.d.ts",
-	"main": "./dist/index.cjs",
-	"module": "./dist/index.js",
+	"main": "./dist/index.js",
+	"module": "./dist/index.mjs",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/{{github}}/{{name}}"

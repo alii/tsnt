@@ -104,3 +104,6 @@ public/
 test
 
 .DS_Store
+
+.yarn/*
+!.yarn/releases
